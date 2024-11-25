@@ -27,5 +27,4 @@ func _on_h_slider_value_changed(value: float) -> void:
 
 
 func _on_h_slider_2_value_changed(value: float) -> void:
-	var f: AudioEffectAmplify 
 	pass # Replace with function body.
